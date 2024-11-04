@@ -11,7 +11,7 @@ Currently working at <a href="https://www.bearstudio.fr/">Bearstudio 🐻</a>
 
 ### 👨‍💻 My projects
 - [**svelte-animation**](https://github.com/ntatoud/svelte-animation): A showcase project that I used to learn Svelte5 and GSAP animations
-- [**spell-checker**](https://github.com/ntatoud/spell-checker): A showcase project that I used to learn Svelte5 and GSAP animations
+- [**spell-checker**](https://github.com/ntatoud/spell-checker): A school project of a spell checker built in C using binary-tree-search
 ---
 
 ### 🙋‍♂️ About Me
