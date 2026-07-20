@@ -1,4 +1,6 @@
-![Hi, I'm Noé](https://shieldcn.dev/header/glow.svg?title=Hi%2C+I%27m+No%C3%A9&subtitle=Full-stack+web+developer.+Bearstudio,+France&mode=dark&theme=green&font=roboto)
+<p align="center">
+  <img src="https://shieldcn.dev/header/glow.svg?title=Hi%2C+I'm+No%C3%A9&subtitle=Full-stack+web+developer.+Bearstudio,+France&theme=green" alt="Noé — full-stack web developer" />
+</p>
 
 <p align="center">
   <img src="https://shieldcn.dev/badge/TypeScript-3178c6.svg?logo=typescript" alt="TypeScript" />
