@@ -1,52 +1,32 @@
-<h1 align="center">Hi 👋, I'm Noé</h1>
-<h3 align="center">
-A web developer from France 🇫🇷 <br />
-Currently working at <a href="https://www.bearstudio.fr/">Bearstudio 🐻</a>
-</h3>
+![Hi, I'm Noé](https://shieldcn.dev/header/glow.svg?title=Hi%2C+I%27m+No%C3%A9&subtitle=Full-stack+web+developer.+Bearstudio,+France&mode=dark&theme=green&font=roboto)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Tech+Enthusiast;Curious" alt="Typing SVG" />
+  <img src="https://shieldcn.dev/badge/TypeScript-3178c6.svg?logo=typescript" alt="TypeScript" />
+  <img src="https://shieldcn.dev/badge/Node.js-339933.svg?logo=nodedotjs" alt="Node.js" />
+  <img src="https://shieldcn.dev/badge/Effect-1d1d1d.svg?logo=effect" alt="Effect" />
+  <img src="https://shieldcn.dev/badge/React-61dafb.svg?logo=react" alt="React" />
+  <img src="https://shieldcn.dev/badge/Tailwind-06b6d4.svg?logo=tailwindcss" alt="Tailwind CSS" />
 </p>
 
 ---
 
-### 👨‍💻 My projects
-- [**svelte-animation**](https://github.com/ntatoud/svelte-animation): A showcase project that I used to learn Svelte5 and GSAP animations
-- [**spell-checker**](https://github.com/ntatoud/spell-checker): A school project of a spell checker built in C using binary-tree-search
----
+### 👨‍💻 Projects
 
-### 🙋‍♂️ About Me
-- ☕ I drink too much coffee
-- 🌱 I love to learn new things
-- 🧗 I love climbing
-
----
-
-### 📈 GitHub Stats
-<a href="https://github.com/ntatoud">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ntatoud" />
-</a>
-<a href="https://github.com/ntatoud">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntatoud&layout=compact&langs_count=8&card_width=320" />
-</a>
-
----
+- [**cowat-v2**](https://github.com/ntatoud/cowat-v2) — Carpooling management platform for organizations (full-stack TypeScript)
+- [**react-http**](https://github.com/ntatoud/react-http) — A React renderer for HTTP servers: define backend routes declaratively with JSX
+- [**achievements-manager**](https://github.com/ntatoud/achievements-manager) — Type-safe achievement tracking for web apps, tiny core with optional React bindings
+- [**typed-variant-system**](https://github.com/ntatoud/typed-variant-system) — Minimal, type-safe core for defining variant systems
 
 ### 🚀 Contributing
-  <a href="https://github.com/BearStudio/start-ui-web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BearStudio&repo=start-ui-web" />
-</a>
+
+- [**start-ui-web**](https://github.com/BearStudio/start-ui-web) — Opinionated UI starter from the BearStudio team <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/BearStudio/start-ui-web.svg?mode=dark"><img alt="start-ui-web stars" src="https://shieldcn.dev/github/stars/BearStudio/start-ui-web.svg?mode=light"></picture>
 
 ---
 
-### 🖥️ Connect with Me
-<p align="left">
-    <a href="https://linkedin.com/in/noetatoud" target="blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/nowaytatoud" target="blank">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="mailto:noe.tatoud@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
+### 🖥️ Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/noetatoud"><img src="https://shieldcn.dev/badge/LinkedIn-0A66C2.svg?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/nowaytatoud"><img src="https://shieldcn.dev/badge/X-000000.svg?logo=x" alt="X" /></a>
+  <a href="mailto:noe.tatoud@gmail.com"><img src="https://shieldcn.dev/badge/Email-EA4335.svg?logo=gmail" alt="Email" /></a>
 </p>
